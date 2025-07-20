@@ -1,2 +1,2 @@
 myenv/*
-*.pkl
+.DS_Store
